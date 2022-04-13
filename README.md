@@ -1,10 +1,13 @@
 # Clock
-## Java Clock that displays Current Time, Day and Date
+Java Clock that displays Current Time, Day and Date
 
-### Screenshot
-<img width="462" alt="Screen Shot 2022-04-12 at 9 59 54 PM" src="https://user-images.githubusercontent.com/73438491/163104985-743f7f94-ddd6-4150-9c7e-342b247b3fae.png">
+<h2 align="center">Screenshot</h2>
+<div align="center">
+<img width="462" alt="Screen Shot 2022-04-12 at 9 59 54 PM" src="https://user-images.githubusercontent.com/73438491/163104985-743f7f94-ddd6-4150-9c7e-342b247b3fae.png">	
+</div>
 
-### Method
+<h2 align="center">Method</h2>
+
 ```
 	// Method to set the time and update every 1000ms
 	public void setTime() {
@@ -32,3 +35,10 @@
 		}
 	}
 ```
+	
+<h2 align="center">Demo</h2>
+<div align="center">
+	
+https://user-images.githubusercontent.com/73438491/163107043-6c2ceb34-cb13-4bd7-816c-6f1a297d8680.mov
+
+</div>
